@@ -1,2 +1,2 @@
-![imagen1](./imagenesunidad3/pyacua.jpg)
-![imagen2](./imagenesunidad3/pylps.jpg)
+![imagen1](./imagenesunidad3/pyacua.JPG)
+![imagen2](./imagenesunidad3/pylps.JPG)
